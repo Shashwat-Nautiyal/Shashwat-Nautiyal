@@ -23,8 +23,8 @@
     
     <!-- Text Content -->
     <text x="50" y="80" font-family="Arial" font-size="40" font-weight="bold" fill="white">Shashwat Nautiyal</text>
-    <text x="50" y="120" font-family="Arial" font-size="20" fill="rgba(255,255,255,0.8)">Software Developer | Tech Enthusiast</text>
+    <text x="50" y="120" font-family="Arial" font-size="20" fill="rgba(255,255,255,0.8)">BlockChain Developer </text>
     
     <!-- Code-like decoration -->
-    <text x="550" y="140" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.5)">&lt;/&gt; Code is poetry</text>
+    <text x="550" y="140" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.5)">&lt;/&gt; The New World</text>
 </svg>
