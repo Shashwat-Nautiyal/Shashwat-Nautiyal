@@ -2,29 +2,9 @@
     <img src="header.svg" width="800" height="180" alt="header">
 </div>
 
-# 👋 Hi, I'm Shashwat Nautiyal
+<h1 align="center">👋 Hi, I'm Shashwat</h1>
+<h3 align="center">Code, decentralize, disrupt—set sail for the New World</h3>
 
-## 🚀 About Me
-I'm a passionate developer who loves to create and innovate. With a keen interest in technology, I'm constantly learning and exploring new possibilities in the world of software development.
-
-## 💻 Tech Stack
-- **Languages**: JavaScript, Python, Java
-- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, VS Code, Docker
-- **Cloud**: AWS, Vercel
-
-## 🌟 Featured Projects
-### Project 1 Name
-- Brief description of what the project does
-- Key technologies used
-- Live demo or important links
-
-### Project 2 Name
-- Brief description of what the project does
-- Key technologies used
-- Live demo or important links
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat-Nautiyal&show_icons=true&theme=radical)
@@ -40,7 +20,10 @@ I'm a passionate developer who loves to create and innovate. With a keen interes
 ## 📫 How to Reach Me
 - 📧 Email: shashwatnautiyal11@gmail.com
 - 💼 LinkedIn: [Shashwat Nautiyal](your-linkedin-url)
-  
+
+  <p>
+<img src="https://skillicons.dev/icons?i=rust,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,nodejs,express,md,mysql,ipfs,mongodb,git,vscode,docker,postman,linux,ubuntu,htmx,github"/>
+</p>
 
 ---
 ⭐️ From [Shashwat-Nautiyal](https://github.com/Shashwat-Nautiyal)
