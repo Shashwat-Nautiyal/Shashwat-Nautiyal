@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="header.svg" width="800" height="180" alt="header">
+</div>
+
 # 👋 Hi, I'm Shashwat Nautiyal
 
 ## 🚀 About Me
