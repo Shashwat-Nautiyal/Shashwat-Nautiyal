@@ -12,6 +12,9 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwat-Nautiyal&theme=dark)](https://git.io/streak-stats)
 
+## 📊 Contribution Graph
+[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-Nautiyal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shashwat-nautiyal-347458280/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([your-twitter-url](https://x.com/hiha_the_great))
