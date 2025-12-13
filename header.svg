@@ -1,30 +1,66 @@
-<svg width="100%" height="100%" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <!-- Gradient Background -->
-    <defs>
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#0F2027"/>
-            <stop offset="50%" style="stop-color:#203A43"/>
-            <stop offset="100%" style="stop-color:#2C5364"/>
-        </linearGradient>
-        
-        <!-- Pattern for background -->
-        <pattern id="pattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-            <circle cx="10" cy="10" r="1" fill="rgba(255,255,255,0.1)"/>
-        </pattern>
-    </defs>
-    
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="url(#gradient)"/>
-    <rect width="100%" height="100%" fill="url(#pattern)"/>
-    
-    <!-- Decorative Elements -->
-    <circle cx="80%" cy="20%" r="30" fill="rgba(255,255,255,0.1)"/>
-    <circle cx="85%" cy="40%" r="20" fill="rgba(255,255,255,0.05)"/>
-    
-    <!-- Text Content -->
-    <text x="5%" y="45%" font-family="Arial" font-size="40" font-weight="bold" fill="white">Shashwat Nautiyal</text>
-    <text x="5%" y="65%" font-family="Arial" font-size="20" fill="rgba(255,255,255,0.8)">BlockChain Developer</text>
-    
-    <!-- Code-like decoration -->
-    <text x="70%" y="85%" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.5)">&lt;/&gt; The New World</text>
+<svg width="100%" height="100%" viewBox="0 0 800 180"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="xMidYMid meet">
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Subtle grid -->
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 L0 0 0 24"
+            fill="none"
+            stroke="rgba(255,255,255,0.04)"
+            stroke-width="1"/>
+    </pattern>
+
+    <!-- Noise dots -->
+    <pattern id="noise" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="9" r="1" fill="rgba(255,255,255,0.04)"/>
+      <circle cx="22" cy="18" r="1" fill="rgba(255,255,255,0.03)"/>
+      <circle cx="35" cy="7" r="1" fill="rgba(255,255,255,0.02)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  <rect width="100%" height="100%" fill="url(#noise)"/>
+
+  <!-- Divider line -->
+  <line x1="5%" y1="72%" x2="95%" y2="72%"
+        stroke="rgba(255,255,255,0.08)"
+        stroke-width="1"/>
+
+  <!-- Name -->
+  <text x="5%" y="46%"
+        font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+        font-size="38"
+        font-weight="600"
+        fill="#ffffff">
+    Shashwat Nautiyal
+  </text>
+
+  <!-- Subtitle -->
+  <text x="5%" y="63%"
+        font-family="Inter, system-ui, sans-serif"
+        font-size="16"
+        letter-spacing="0.3px"
+        fill="rgba(255,255,255,0.75)">
+    Systems • Protocols • Decentralization
+  </text>
+
+  <!-- Cypherpunk footer -->
+  <text x="95%" y="88%"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="13"
+        fill="rgba(255,255,255,0.45)">
+    we write code
+  </text>
+
 </svg>
