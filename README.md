@@ -15,8 +15,8 @@
 ## 🧪 Selected Projects
 
 - **[x402 PolyAgents](https://github.com/Shashwat-Nautiyal/x402-polyagents)** — Decentralized micro-services for autonomous agents using pay-per-request semantics  
-- **[Map-Reduce](https://github.com/Shashwat-Nautiyal/map-reduce)** — Distributed MapReduce implementation focusing on coordination and failure handling
-- **[Rust Compiler](https://github.com/Shashwat-Nautiyal/rust-compiler)** — Building a compiler to understand parsing, type systems, and code generation
+- **[Map-Reduce](https://github.com/Shashwat-Nautiyal/Distributed_Systems)** — Distributed MapReduce implementation focusing on coordination and failure handling
+- **[Rust Compiler](https://github.com/Shashwat-Nautiyal/rust_compiler)** — Building a compiler to understand parsing, type systems, and code generation
 - **[Agentic-ETH](https://github.com/Shashwat-Nautiyal/agentic-eth)** — Experiments with agentic workflows over Ethereum core primitives  
 
 ## ⚖️ Beyond Code
